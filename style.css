@@ -43,3 +43,7 @@ padding: 10px;
 float: none;
 text-align: left;
 }
+#player_q , #player_a
+{
+	color: white;
+}
