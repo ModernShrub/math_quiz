@@ -26,8 +26,8 @@ function send() {
     check_button = "<br><br><button class='btn btn-info' onclick='check()'>Check</button>";
     row =  question_number + input_box + check_button ; 
     document.getElementById("output").innerHTML = row;
-	document.getElementById("number1").value = "";
-	document.getElementById("number2").value = "";
+	document.getElementById("num1").value = "";
+	document.getElementById("num2").value = "";
 }
 
 
